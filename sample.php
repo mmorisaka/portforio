@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="style.css">
     <title>Motoki's Portforio</title>
   </head>
-  
+
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <a class="navbar-brand" href="#">Motoki's Portforio</a>
@@ -32,7 +32,6 @@
               <a class="dropdown-item" href="#">Music</a>
               <a class="dropdown-item" href="#">Soccer</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#">Something else here</a>
             </div>
           </li>
         </ul>
