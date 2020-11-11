@@ -1,0 +1,7 @@
+.jumbotron-extend {
+    position: relative;
+    height: 100vh;
+    min-height: 200px;
+    background: url(img/cat1.jpg) no-repeat center center;
+    background-size: cover;
+}
