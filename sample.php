@@ -54,7 +54,7 @@
   <div class="row">
     <div class="col-sm">
       <div class="card" style="width: 18rem;">
-        <img src="img/program.jpg" card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em"></text></svg>
+        <img src="img/program.png" card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em"></text></svg>
         <div class="card-body">
           <h5 class="card-title">Programming</h5>
           <p class="card-text">基礎メモ。テクメモ。雑多な話題。あるあるネタ。etc..</p>
@@ -64,7 +64,7 @@
     </div>
     <div class="col-sm">
       <div class="card" style="width: 18rem;">
-        <img src="img/program.jpg" card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em"></text></svg>
+        <img src="img/program.png" card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em"></text></svg>
         <div class="card-body">
           <h5 class="card-title">Music</h5>
           <p class="card-text">直感的反復作品の展覧場。</p>
@@ -74,7 +74,7 @@
     </div>
     <div class="col-sm">
       <div class="card" style="width: 18rem;">
-        <img src="img/soccor.jpg" class="bd-placeholder-img card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em"></text></img>
+        <img src="img/soccor.png" class="bd-placeholder-img card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em"></text></img>
         <div class="card-body">
           <h5 class="card-title">Soccer</h5>
           <p class="card-text">しがない４種審判員のノート。戦術、基礎技術も少々。</p>
